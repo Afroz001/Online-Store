@@ -1,0 +1,19 @@
+.left-navbar {
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+
+.right-navbar {
+  color: black;
+  display: flex;
+  width: 150px;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.logo {
+  margin-left: 10px;
+  height: 60px;
+  cursor: pointer;
+}
